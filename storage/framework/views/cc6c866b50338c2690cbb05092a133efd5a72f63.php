@@ -1,5 +1,5 @@
 
-<?php $__env->startSection('title', 'Enquiry'); ?>
+<?php $__env->startSection('title', 'Branch List'); ?>
 <?php $__env->startSection('css'); ?>
 <link rel="stylesheet" href="<?php echo e(asset('bundles/datatables/datatables.min.css')); ?>">
 <link rel="stylesheet" href="<?php echo e(asset('bundles/datatables/DataTables-1.10.16/css/dataTables.bootstrap4.min.css')); ?>">
